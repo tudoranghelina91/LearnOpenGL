@@ -19,6 +19,10 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1-4-3_Hello-Shaders_More-Ve
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1-4-4_Hello-Shaders_Create-Shader-Class", "1-4-4_Hello-Shaders_Create-Shader-Class\1-4-4_Hello-Shaders_Create-Shader-Class.vcxproj", "{99A22174-D246-46A8-81B0-13003FB422B6}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1-5-1_Hello_Texture_1", "1-5-1_Hello_Texture_1\1-5-1_Hello_Texture_1.vcxproj", "{7DBAAC44-10B3-42F0-8A92-A23C543BA247}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1-5-2_Hello_Texture_2_Square_Crate", "1-5-2_Hello_Texture_2_Square_Crate\1-5-2_Hello_Texture_2_Square_Crate.vcxproj", "{B60850E1-216A-439C-B13C-56AA14FB3F16}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -91,6 +95,22 @@ Global
 		{99A22174-D246-46A8-81B0-13003FB422B6}.Release|x64.Build.0 = Release|x64
 		{99A22174-D246-46A8-81B0-13003FB422B6}.Release|x86.ActiveCfg = Release|Win32
 		{99A22174-D246-46A8-81B0-13003FB422B6}.Release|x86.Build.0 = Release|Win32
+		{7DBAAC44-10B3-42F0-8A92-A23C543BA247}.Debug|x64.ActiveCfg = Debug|x64
+		{7DBAAC44-10B3-42F0-8A92-A23C543BA247}.Debug|x64.Build.0 = Debug|x64
+		{7DBAAC44-10B3-42F0-8A92-A23C543BA247}.Debug|x86.ActiveCfg = Debug|Win32
+		{7DBAAC44-10B3-42F0-8A92-A23C543BA247}.Debug|x86.Build.0 = Debug|Win32
+		{7DBAAC44-10B3-42F0-8A92-A23C543BA247}.Release|x64.ActiveCfg = Release|x64
+		{7DBAAC44-10B3-42F0-8A92-A23C543BA247}.Release|x64.Build.0 = Release|x64
+		{7DBAAC44-10B3-42F0-8A92-A23C543BA247}.Release|x86.ActiveCfg = Release|Win32
+		{7DBAAC44-10B3-42F0-8A92-A23C543BA247}.Release|x86.Build.0 = Release|Win32
+		{B60850E1-216A-439C-B13C-56AA14FB3F16}.Debug|x64.ActiveCfg = Debug|x64
+		{B60850E1-216A-439C-B13C-56AA14FB3F16}.Debug|x64.Build.0 = Debug|x64
+		{B60850E1-216A-439C-B13C-56AA14FB3F16}.Debug|x86.ActiveCfg = Debug|Win32
+		{B60850E1-216A-439C-B13C-56AA14FB3F16}.Debug|x86.Build.0 = Debug|Win32
+		{B60850E1-216A-439C-B13C-56AA14FB3F16}.Release|x64.ActiveCfg = Release|x64
+		{B60850E1-216A-439C-B13C-56AA14FB3F16}.Release|x64.Build.0 = Release|x64
+		{B60850E1-216A-439C-B13C-56AA14FB3F16}.Release|x86.ActiveCfg = Release|Win32
+		{B60850E1-216A-439C-B13C-56AA14FB3F16}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
